@@ -5,8 +5,9 @@
 		{"type":"text","text":"Step 1.1.1 - Set Up DBs with docker","id":"aeacf5f51a907c1e","x":-300,"y":60,"width":250,"height":60},
 		{"type":"text","text":"Step 1.2 - Install Java","id":"92ceb3ca2ab0a8dd","x":0,"y":-40,"width":250,"height":60},
 		{"type":"text","text":"Step 1.3 - Install Sencha","id":"1651330a4ef83c20","x":340,"y":-40,"width":250,"height":60},
-		{"id":"52d57bbd77f4ac6b","x":660,"y":-40,"width":250,"height":60,"type":"text","text":"Step 1.4 - Setup GIT"},
-		{"type":"text","text":"Step 1.4 - Setup GIT","id":"d732dad04f5adafb","x":980,"y":-40,"width":250,"height":60}
+		{"type":"text","text":"Step 1.4 - Setup GIT","id":"52d57bbd77f4ac6b","x":660,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"Step 1.4 - Setup GIT","id":"d732dad04f5adafb","x":980,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"Step 1 - Complete","id":"1878583c93183abb","x":1340,"y":-40,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"089d5f524512f825","fromNode":"032a39694aa7df1c","fromSide":"right","toNode":"8d66f633946f4c64","toSide":"left"},
@@ -15,6 +16,7 @@
 		{"id":"c23c0da785474e60","fromNode":"aeacf5f51a907c1e","fromSide":"right","toNode":"92ceb3ca2ab0a8dd","toSide":"left"},
 		{"id":"e54f04e3f713caea","fromNode":"92ceb3ca2ab0a8dd","fromSide":"right","toNode":"1651330a4ef83c20","toSide":"left"},
 		{"id":"fbcf96a0bc5b4c05","fromNode":"1651330a4ef83c20","fromSide":"right","toNode":"52d57bbd77f4ac6b","toSide":"left"},
-		{"id":"03e54bda7702cb98","fromNode":"52d57bbd77f4ac6b","fromSide":"right","toNode":"d732dad04f5adafb","toSide":"left"}
+		{"id":"03e54bda7702cb98","fromNode":"52d57bbd77f4ac6b","fromSide":"right","toNode":"d732dad04f5adafb","toSide":"left"},
+		{"id":"840c8e7c59ae2f43","fromNode":"d732dad04f5adafb","fromSide":"right","toNode":"1878583c93183abb","toSide":"left"}
 	]
 }

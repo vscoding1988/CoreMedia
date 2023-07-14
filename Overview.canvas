@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"type":"text","text":"[[Step 1 - Setup Workspace.canvas|Step 1 - Setup Workspace]]","id":"ee46de0ce1c98bc6","x":-920,"y":-20,"width":250,"height":60}
+		{"type":"text","text":"[[Step 1 - Setup Workspace.canvas|Step 1 - Setup Workspace]]","id":"ee46de0ce1c98bc6","x":-920,"y":-20,"width":250,"height":60},
+		{"type":"text","text":"Step 2 - Start Workspace","id":"46da60e4e7e3fc40","x":-600,"y":-20,"width":250,"height":60}
 	],
 	"edges":[]
 }

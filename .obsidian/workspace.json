@@ -15,9 +15,9 @@
               "state": {
                 "file": "Overview.canvas",
                 "viewState": {
-                  "x": -795,
-                  "y": 10,
-                  "zoom": 0
+                  "x": -522.7543070017466,
+                  "y": 78.41181401066672,
+                  "zoom": 0.4166666666666667
                 }
               }
             }
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "README.md"
               }
             }
           }
@@ -166,6 +166,6 @@
   "lastOpenFiles": [
     "Overview.canvas",
     "Step 1/Step 1 - Setup Workspace.canvas",
-    "Readme.md"
+    "README.md"
   ]
 }
