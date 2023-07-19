@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "616608216f10080b",
+        "id": "ff99b4d53e50dd6d",
         "type": "tabs",
         "children": [
           {
-            "id": "0872266063823476",
+            "id": "12e8cb0a945c4938",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Overview.canvas",
                 "viewState": {
-                  "x": -522.7543070017466,
-                  "y": 78.41181401066672,
-                  "zoom": 0.4166666666666667
+                  "x": -540,
+                  "y": 1308.9227642276423,
+                  "zoom": -1.8145976619387425
                 }
               }
             }
-          },
-          {
-            "id": "3beacedc84f6da0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Overview.canvas"
               }
             }
           }
@@ -162,10 +149,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3beacedc84f6da0c",
+  "active": "12e8cb0a945c4938",
   "lastOpenFiles": [
+    "CoreMedia - Basics/A1 - Setup Environment/A1 - Overview.canvas",
+    "CoreMedia - Basics/A2 - Start CoreMedia/A2 - Overview.canvas",
     "Overview.canvas",
-    "Step 1/Step 1 - Setup Workspace.canvas",
+    "CoreMedia - Basics/A2 - Start CoreMedia",
+    "CoreMedia - Frontend",
+    "Assets",
+    "CoreMedia - Basics",
     "README.md"
   ]
 }

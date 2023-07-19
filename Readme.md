@@ -1,1 +1,1 @@
-Obsidian Vault for CoreMedia. Requires the tool [[https://obsidian.md/]]. 
+Obsidian Vault for CoreMedia 11. Requires the tool [Obsidian](https://obsidian.md/) for reading, when installed, you can start with
