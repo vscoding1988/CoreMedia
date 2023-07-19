@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[First Template]]","id":"9eb52fbf0d07de07","x":-190,"y":60,"width":200,"height":60},
+		{"type":"text","text":"Step 0 - Start","id":"898fa1669e808499","x":-215,"y":-240,"width":250,"height":60},
+		{"type":"text","text":"[[Setup Workspace for templating]]","id":"4c36dec0ed1bfbd9","x":-234,"y":-80,"width":288,"height":60},
+		{"type":"text","text":"[[Theory - Template Hierarchy]]","id":"a9c35ddaf1698a9b","x":79,"y":60,"width":261,"height":60}
+	],
+	"edges":[
+		{"id":"e3ce371c84dad0c0","fromNode":"898fa1669e808499","fromSide":"bottom","toNode":"4c36dec0ed1bfbd9","toSide":"top"},
+		{"id":"e37e0eceac770fd6","fromNode":"4c36dec0ed1bfbd9","fromSide":"bottom","toNode":"9eb52fbf0d07de07","toSide":"top"},
+		{"id":"ac3f61458110446b","fromNode":"9eb52fbf0d07de07","fromSide":"right","toNode":"a9c35ddaf1698a9b","toSide":"left"}
+	]
+}
