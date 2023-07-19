@@ -30,12 +30,17 @@ git config --global user.email "your@email.com"
 ```bash
 # Linux
 ssh-keygen -C "your@email" -t rsa
+cd ~/.ssh
+cat id_rsa.pub
+
 # Windows 
 
 ```  
 #TODO
 
-Gotto you Github account -> Settings → SSH and GPG keys → New SSH Key paste the content of the .pub file into in the text box and click on "Add SSH Key".
+Go to you Github account -> Settings → SSH and GPG keys → New SSH Key paste the content of the .pub file into in the text box and click on "Add SSH Key".
+
+> If you use the SSH method, make sure to clone SSH urls
 
 ### Setup Personal Access Token
 
