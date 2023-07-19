@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"type":"text","text":"Step 1 - Install Java","id":"92ceb3ca2ab0a8dd","x":-20,"y":-40,"width":270,"height":60},
+		{"type":"text","text":"[[Install JAVA]]","id":"92ceb3ca2ab0a8dd","x":-20,"y":-40,"width":270,"height":60},
 		{"type":"text","text":"Step 2 - Install Sencha","id":"1651330a4ef83c20","x":-20,"y":100,"width":270,"height":60},
 		{"type":"text","text":"Step 3 - Setup NPM & PNPM","id":"52d57bbd77f4ac6b","x":-20,"y":240,"width":270,"height":60},
-		{"type":"text","text":"Step 4 - Setup GIT","id":"d732dad04f5adafb","x":-20,"y":380,"width":270,"height":60},
+		{"type":"text","text":"[[Setup GIT]]","id":"d732dad04f5adafb","x":-20,"y":380,"width":270,"height":60},
 		{"type":"text","text":"Step 0 - Start","id":"032a39694aa7df1c","x":-20,"y":-180,"width":270,"height":60},
 		{"type":"text","text":"Step 5 - Summary","id":"1878583c93183abb","x":-20,"y":520,"width":270,"height":60}
 	],
